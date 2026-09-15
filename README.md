@@ -1,5 +1,9 @@
 # Hardware Pareto Optimizer
 
+[![CI](https://github.com/SamikshaSingh1904/hardware-pareto-optimizer/actions/workflows/ci.yml/badge.svg)](https://github.com/SamikshaSingh1904/hardware-pareto-optimizer/actions)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg?logo=fastapi)](https://fastapi.tiangolo.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 A production-grade Bayesian Multi-Objective Constrained Optimization engine using BoTorch ($q$-Expected Hypervolume Improvement / $q$EHVI) coupled with a parametric CAD synthesis and JSON feature-tree exporter for mechanical/hardware design spaces.
 
 ## Architecture Overview
